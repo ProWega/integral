@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Integral\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\eulersolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\eulersolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\equationsystemstub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\equationsystemstub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\isystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\isystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\differentialsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\differentialsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\plotter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\plotter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\integral.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\integral.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\expressionevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\expressionevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\rungekuttasolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\rungekuttasolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\adaptivefinitedifferencesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\adaptivefinitedifferencesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\gausssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\gausssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\isolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\isolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\txtdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\txtdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|c:\\users\\admin\\source\\repos\\integral\\integral\\idatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DC5AFE-C7A4-48F7-B267-D8B5B5578C85}|Integral\\Integral.csproj|solutionrelative:integral\\idatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquationSystemStub.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\EquationSystemStub.cs",
+              "RelativeDocumentMoniker": "Integral\\EquationSystemStub.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\EquationSystemStub.cs",
+              "RelativeToolTip": "Integral\\EquationSystemStub.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:39:36.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExpressionEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\ExpressionEvaluator.cs",
+              "RelativeDocumentMoniker": "Integral\\ExpressionEvaluator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\ExpressionEvaluator.cs",
+              "RelativeToolTip": "Integral\\ExpressionEvaluator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:29:43.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RungeKuttaSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\RungeKuttaSolver.cs",
+              "RelativeDocumentMoniker": "Integral\\RungeKuttaSolver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\RungeKuttaSolver.cs",
+              "RelativeToolTip": "Integral\\RungeKuttaSolver.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAMwDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T00:45:30.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Integral.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\Integral.csproj",
+              "RelativeDocumentMoniker": "Integral\\Integral.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\Integral.csproj",
+              "RelativeToolTip": "Integral\\Integral.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T16:58:24.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DifferentialSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\DifferentialSystem.cs",
+              "RelativeDocumentMoniker": "Integral\\DifferentialSystem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\DifferentialSystem.cs",
+              "RelativeToolTip": "Integral\\DifferentialSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:58:38.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plotter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\Plotter.cs",
+              "RelativeDocumentMoniker": "Integral\\Plotter.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\Plotter.cs",
+              "RelativeToolTip": "Integral\\Plotter.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAIAmwKIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:05:30.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\Program.cs",
+              "RelativeDocumentMoniker": "Integral\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\Program.cs",
+              "RelativeToolTip": "Integral\\Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAowFMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:30:48.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EulerSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\EulerSolver.cs",
+              "RelativeDocumentMoniker": "Integral\\EulerSolver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\EulerSolver.cs",
+              "RelativeToolTip": "Integral\\EulerSolver.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIApwAoAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:31:20.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdaptiveFiniteDifferenceSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\AdaptiveFiniteDifferenceSolver.cs",
+              "RelativeDocumentMoniker": "Integral\\AdaptiveFiniteDifferenceSolver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\AdaptiveFiniteDifferenceSolver.cs",
+              "RelativeToolTip": "Integral\\AdaptiveFiniteDifferenceSolver.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAEAwwF4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T00:58:47.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISystem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\ISystem.cs",
+              "RelativeDocumentMoniker": "Integral\\ISystem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\ISystem.cs",
+              "RelativeToolTip": "Integral\\ISystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T00:56:06.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GaussSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\GaussSolver.cs",
+              "RelativeDocumentMoniker": "Integral\\GaussSolver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\GaussSolver.cs",
+              "RelativeToolTip": "Integral\\GaussSolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:10:01.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISolver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\ISolver.cs",
+              "RelativeDocumentMoniker": "Integral\\ISolver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\ISolver.cs",
+              "RelativeToolTip": "Integral\\ISolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T00:56:49.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\Solution.cs",
+              "RelativeDocumentMoniker": "Integral\\Solution.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\Solution.cs",
+              "RelativeToolTip": "Integral\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T00:57:28.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TxtDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\TxtDataManager.cs",
+              "RelativeDocumentMoniker": "Integral\\TxtDataManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\TxtDataManager.cs",
+              "RelativeToolTip": "Integral\\TxtDataManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:59:57.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\IDataManager.cs",
+              "RelativeDocumentMoniker": "Integral\\IDataManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Integral\\Integral\\IDataManager.cs",
+              "RelativeToolTip": "Integral\\IDataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:59:03.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
